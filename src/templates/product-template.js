@@ -127,7 +127,7 @@ const Producttemplate = (contentfulProduct) => {
       )}
       <Features
         title="Featured Projects from BeginIdeas."
-        introduction="Leveraging Agile, industry certified subject matter experts (SMEs) and the best secure technology solutions for our clients."
+        introduction="Leveraging Agile, industry certified subject matter experts (SMEs) and modern secure technology solutions for our clients."
       />
     </>
   )

@@ -21,6 +21,7 @@ export const PerksModuleStyles = styled.section`
   }
   
     .banner__content2 {
+    top: 25px;
     position: absolute;
     z-index: 2;
     min-height: 33vh;

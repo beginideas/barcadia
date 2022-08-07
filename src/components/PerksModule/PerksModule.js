@@ -16,7 +16,7 @@ const PerksModule = () => {
         placeholder="tracedSVG"
       />
    <div className="banner__content2">            
-              <h1>Our Clients</h1>
+              <h1>Happy Clients</h1>
    </div>
 
       <div className="perks__image--overlay"></div>

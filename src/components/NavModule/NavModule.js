@@ -101,7 +101,7 @@ const NavModule = () => {
                 onClick={toggleSubNav}
                 onKeyDown={toggleSubNav}
               >
-                Products<span>.</span>
+                Projects<span>.</span>
                 <Chevron />
               </button>
 

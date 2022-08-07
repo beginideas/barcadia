@@ -21,7 +21,7 @@ const PerksModule = () => {
         >
           <StaticImage
             src="../../../static/logos/DHS.png"
-            alt="Perk Image"
+            alt="Department of Homeland Security Logo"
             layout="constrained"
             placeholder="tracedSVG"
           />
@@ -33,7 +33,7 @@ const PerksModule = () => {
         >
           <StaticImage
             src="../../../static/logos/DOI.png"
-            alt="Perk Image"
+            alt="Department of Interior Logo"
             layout="constrained"
             placeholder="tracedSVG"
           />
@@ -44,8 +44,8 @@ const PerksModule = () => {
          
         >
           <StaticImage
-            src="../../../static/logos/DHS.png"
-            alt="Perk Image"
+            src="../../../static/logos/DOC.png"
+            alt="Department of Commerce Logo"
             layout="constrained"
             placeholder="tracedSVG"
           />
@@ -56,8 +56,8 @@ const PerksModule = () => {
          
         >
           <StaticImage
-            src="../../../static/logos/DHS.png"
-            alt="Perk Image"
+            src="../../../static/logos/TREASURY.png"
+            alt="Department of Treasury Logo"
             layout="constrained"
             placeholder="tracedSVG"
           />
@@ -68,8 +68,8 @@ const PerksModule = () => {
          
         >
           <StaticImage
-            src="../../../static/logos/DHS.png"
-            alt="Perk Image"
+            src="../../../static/logos/USAID.png"
+            alt="USAID Logo"
             layout="constrained"
             placeholder="tracedSVG"
           />

@@ -14,11 +14,10 @@ const PerksModule = () => {
         layout="constrained"
         placeholder="tracedSVG"
       />
+      Title = "Happy Clients!"
       <div className="perks__image--overlay"></div>
       <div className="container container__tight">
-        <Perk
-          title="Happy Clients!"
-        >
+        
           <StaticImage
             src="../../../static/logos/DHS.png"
             alt="Department of Homeland Security Logo"

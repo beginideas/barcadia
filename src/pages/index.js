@@ -27,7 +27,7 @@ const Index = () => {
 
         <Features
           title="Latest Projects"
-          introduction="Vivamus quam mauris, pulvinar vel mauris id, interdum semper neque. Proin malesuada libero eget tellus scelerisque, id egestas tortor egestas."
+          introduction="Leveraging Agile and the best technology solutions for our clients."
         />
         <LatestPosts
           title="Latest Projects"

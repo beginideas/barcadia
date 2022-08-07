@@ -22,17 +22,14 @@ const Index = () => {
           title="Proudly serving our clients with digital transformation and enterprise modernization efforts."
           content="Using modern CSS properties such as grid, this theme is optmised for speed and mobile devices. Giving users an excellent experience on any device. Future-proofing your product."
           link="/contractvehicles"
-          linkText="View Contracting Vehicles"
+          linkText="Learn More"
         />
 
         <Features
           title="Latest Projects"
           introduction="Leveraging Agile and the best technology solutions for our clients."
         />
-        <LatestPosts
-          title="Latest Projects"
-          introduction="Cras scelerisque, tellus sed gravida tincidunt, velit tellus blandit justo, nec viverra augue erat in erat. Maecenas iaculis sed purus non fringilla."
-        />
+
       </Layout>
     </>
   )

@@ -27,7 +27,7 @@ const Index = () => {
 
         <Features
           title="Latest Projects"
-          introduction="Leveraging Agile and the best technology solutions for our clients."
+          introduction="Leveraging Agile, industry certified subject matter experts (SMEs) and modern secure technology solutions for our clients."
         />
 
       </Layout>

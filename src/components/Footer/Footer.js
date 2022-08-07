@@ -110,6 +110,14 @@ const Footer = () => {
                 </li>
               )}
             </ul>
+            <ul>
+              Let's Begin! </ul>
+<ul>Phone: (571) 308-8795 </ul>
+<ul>Email: info@beginideas.com </ul>
+<ul>DUNS: 078325203 </ul>
+<ul>Cage Code: 6M4L4 </ul>
+<ul>NAICS: 54512, 54519, 611420 </ul>
+
           </FooterMenuStyles>
         ) : (
           ""

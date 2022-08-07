@@ -20,7 +20,7 @@ const Index = () => {
     />
         <BasicTextModule
           title="Proudly serving our clients with digital transformation and enterprise modernization efforts."
-          content="Using modern CSS properties such as grid, this theme is optmised for speed and mobile devices. Giving users an excellent experience on any device. Future-proofing your product."
+          content="We are inventors, entrepeneurs and doers. We leverage industry standards, best practices, and secure technology to help our clients modernize and promote digital citizenship engagement."
           link="/about"
           linkText="Learn More"
         />

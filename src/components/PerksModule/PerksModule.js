@@ -14,7 +14,6 @@ const PerksModule = () => {
         layout="constrained"
         placeholder="tracedSVG"
       />
-      Title = "Happy Clients!"
       <div className="perks__image--overlay"></div>
       <div className="container container__tight">
         
@@ -26,10 +25,7 @@ const PerksModule = () => {
           />
         </Perk>
         
-        <Perk
-          title=" "
-         
-        >
+        
           <StaticImage
             src="../../../static/logos/DOI.png"
             alt="Department of Interior Logo"
@@ -38,10 +34,7 @@ const PerksModule = () => {
           />
         </Perk>
     
-        <Perk
-          title=" "
-         
-        >
+       
           <StaticImage
             src="../../../static/logos/DOC.png"
             alt="Department of Commerce Logo"
@@ -49,11 +42,7 @@ const PerksModule = () => {
             placeholder="tracedSVG"
           />
         </Perk>
-    
-      <Perk
-          title=" "
-         
-        >
+   
           <StaticImage
             src="../../../static/logos/TREASURY.png"
             alt="Department of Treasury Logo"
@@ -62,10 +51,7 @@ const PerksModule = () => {
           />
         </Perk>
     
-      <Perk
-          title=" "
-         
-        >
+
           <StaticImage
             src="../../../static/logos/USAID.png"
             alt="USAID Logo"

@@ -15,11 +15,12 @@ const Index = () => {
       <Layout>
         <BannerModule
           title="Welcome to BeginIdeas"
-          subTitle="We bring ideas to life through digital transformation and modernization to government agencies. Proudly based out of National Landing and St. Johns, FL."
-        />
+          subTitle="We bring ideas to life through digital transformation and modernization to government agencies. Proudly based out of <a href="https://nationallanding.org/" target="_blank">National Landing</a> and St. Johns, FL."
+          link="/about"
+          linkText="Learn More"
+    />
         <BasicTextModule
-          title="A super-fast theme that is easy to get started, using the power of
-            GatsbyJS"
+          title="Proudly serving our clients with digital transformation and enterprise modernization efforts."
           content="Using modern CSS properties such as grid, this theme is optmised for
             speed and mobile devices. Giving users an excellent experience on
             any device. Future-proofing your product."
@@ -30,11 +31,11 @@ const Index = () => {
           <Perk title="The Title" content="The content" />
         </PerksModule>
         <Features
-          title="Featured Products from Barcadia."
+          title="Our Capabilities."
           introduction="Vivamus quam mauris, pulvinar vel mauris id, interdum semper neque. Proin malesuada libero eget tellus scelerisque, id egestas tortor egestas."
         />
         <LatestPosts
-          title="The Latest from Barcadia"
+          title="Latest Projects"
           introduction="Cras scelerisque, tellus sed gravida tincidunt, velit tellus blandit justo, nec viverra augue erat in erat. Maecenas iaculis sed purus non fringilla."
         />
       </Layout>

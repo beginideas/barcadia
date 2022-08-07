@@ -7,9 +7,7 @@ import Perk from "./Perk"
 const PerksModule = () => {
   return (
     <PerksModuleStyles className="section section__padding">
-      <Perk
-          title="Happy Clients"
-        >
+      
     <StaticImage
         className="perks__image--bg"
         src="../../../static/abstract-building.jpg"
@@ -20,7 +18,7 @@ const PerksModule = () => {
       <div className="perks__image--overlay"></div>
       <div className="container container__tight">
         <Perk
-          title="  "
+          title="Happy Clients"
         >
           <StaticImage
             src="../../../static/logos/DHS.png"

@@ -9,7 +9,7 @@ export const menuItems = [
   },
   {
     path: "/contractvehicles",
-    text: "Contrat Vehicles",
+    text: "Contract Vehicles",
   },
   {
     path: "/products",

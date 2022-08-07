@@ -16,7 +16,7 @@ const Index = () => {
         <BannerModule
           title="Welcome to BeginIdeas"
           subTitle="We bring ideas to life through digital transformation and modernization to government agencies. Proudly based out of Alexandria, VA (National Landing) and St. Johns, FL."
-
+          content=<img src={'/logos/DHS.png'} alt='DHS Logo' />
     />
         <BasicTextModule
           title="Proudly serving our clients with digital transformation and enterprise modernization efforts."

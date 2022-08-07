@@ -21,7 +21,7 @@ const Index = () => {
         <BasicTextModule
           title="Proudly serving our clients with digital transformation and enterprise modernization efforts."
           content="Using modern CSS properties such as grid, this theme is optmised for speed and mobile devices. Giving users an excellent experience on any device. Future-proofing your product."
-          link="/contractvehicles"
+          link="/about"
           linkText="Learn More"
         />
 

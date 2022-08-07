@@ -57,11 +57,11 @@ export const PerksModuleStyles = styled.section`
 `
 
 export const PerkStyles = styled.aside`
-  max-width: 275px;
+  max-width: 200px;
   text-align: center;
 
   @media (min-width: 414px) {
-    max-width: 325px;
+    max-width: 200px;
   }
 
   @media (min-width: 768px) {
@@ -69,7 +69,7 @@ export const PerkStyles = styled.aside`
   }
 
   @media (min-width: 1024px) {
-    max-width: 400px;
+    max-width: 200px;
   }
 
   h3 {
@@ -81,20 +81,20 @@ export const PerkStyles = styled.aside`
     margin-bottom: 0;
   }
   .gatsby-image-wrapper {
-    width: 170px;
-    height: 45px;
+    width: 125px;
+    height: 125px;
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 0 auto calc(var(--gap) / 2) auto;
 
     @media (min-width: 375px) {
-      width: 200px;
+      width: 125px;
     }
 
     @media (min-width: 1024px) {
-      width: 300px;
-      height: 60px;
+      width: 125px;
+      height:125px;
     }
 
     img {

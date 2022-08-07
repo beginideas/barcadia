@@ -15,7 +15,7 @@ const Index = () => {
       <Layout>
         <BannerModule
           title="Welcome to BeginIdeas"
-          subTitle="We bring ideas to life through digital transformation and modernization to government agencies. Proudly based out of National Landing and St. Johns, FL."
+          subTitle="We bring ideas to life through digital transformation and modernization to government agencies. Proudly based out of Alexandria, VA (National Landing) and St. Johns, FL."
 
     />
         <BasicTextModule

@@ -8,10 +8,10 @@ require("dotenv").config({
 })
 module.exports = {
   siteMetadata: {
-    title: "Barcadia",
-    description: "A super-fast site using GatsbyJS",
+    title: "BeginIdeas",
+    description: "We Bring Ideas to Life",
     author: "Morgan Baker",
-    twitterUsername: "barcadia",
+    twitterUsername: "beginideas",
     facebookUsername: "barcadia",
     instagramUsername: "barcadia",
     linkedinUsername: "morgan-baker-development",

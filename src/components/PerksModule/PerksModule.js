@@ -19,14 +19,8 @@ const PerksModule = () => {
       <div className="perks__image--overlay"></div>
       <div className="container container__tight">
         <Perk
-          title="Happy Clients "
+          title="Clients "
         >
-          <StaticImage
-            src=" "
-            alt="Happy Clients"
-            
-            
-          />
         </Perk>
     
         <Perk

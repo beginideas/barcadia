@@ -28,6 +28,10 @@ export const PerksModuleStyles = styled.section`
     max-width: 700px;
     @media (min-width: 768px) {
       width: 66vw;
+     
+    top: 25px;
+    margin-top: 0px;
+    border-top-width: 50px;
     }
     h1,
     h2 {

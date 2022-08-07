@@ -27,15 +27,49 @@ const PerksModule = () => {
             placeholder="tracedSVG"
           />
         </Perk>
-        <span className="perks__divider">
-          <Cross />
-        </span>
+        
         <Perk
           title="Built For Content"
           content="Contentful helps you edit your application with ease as your business expands"
         >
           <StaticImage
             src="../../../static/logos/DOI.png"
+            alt="Perk Image"
+            layout="constrained"
+            placeholder="tracedSVG"
+          />
+        </Perk>
+    
+        <Perk
+          title="Built For Speed"
+          content="By using GatsbyJS, the Barcadia site is super-fast out of the box"
+        >
+          <StaticImage
+            src="../../../static/logos/DHS.png"
+            alt="Perk Image"
+            layout="constrained"
+            placeholder="tracedSVG"
+          />
+        </Perk>
+    
+      <Perk
+          title="Built For Speed"
+          content="By using GatsbyJS, the Barcadia site is super-fast out of the box"
+        >
+          <StaticImage
+            src="../../../static/logos/DHS.png"
+            alt="Perk Image"
+            layout="constrained"
+            placeholder="tracedSVG"
+          />
+        </Perk>
+    
+      <Perk
+          title="Built For Speed"
+          content="By using GatsbyJS, the Barcadia site is super-fast out of the box"
+        >
+          <StaticImage
+            src="../../../static/logos/DHS.png"
             alt="Perk Image"
             layout="constrained"
             placeholder="tracedSVG"

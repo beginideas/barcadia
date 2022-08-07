@@ -31,19 +31,8 @@ export const data = graphql`
       description {
         raw
       }
-      faqs {
-        question
-        answer {
-          raw
-        }
-      }
-      gallery {
-        gatsbyImageData(
-          width: 1000
-          placeholder: BLURRED
-          formats: [AUTO, WEBP, AVIF]
-        )
-      }
+     
+    
     }
   }
 `

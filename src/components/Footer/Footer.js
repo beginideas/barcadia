@@ -56,10 +56,7 @@ const Footer = () => {
           </FooterMenuStyles>
         )}
 
-        {siteMeta.twitterUsername ||
-        siteMeta.facebookUsername ||
-        siteMeta.instagramUsername ||
-        siteMeta.linkedinUsername ? (
+        {siteMeta.twitterUsername ? (
           <FooterMenuStyles className="footer__menu social__menu">
             <h5>
               Follow BeginIdeas<span>.</span>
@@ -76,39 +73,7 @@ const Footer = () => {
                   </a>
                 </li>
               )}
-              {siteMeta.facebookUsername && (
-                <li>
-                  <a
-                    href={`https://www.facebook.com/${siteMeta.facebookUsername}`}
-                    target="_blank"
-                    rel="nofollow noreferrer noopener"
-                  >
-                    <Facebook />
-                  </a>
-                </li>
-              )}
-              {siteMeta.instagramUsername && (
-                <li>
-                  <a
-                    href={`https://www.instagram.com/${siteMeta.instagramUsername}`}
-                    target="_blank"
-                    rel="nofollow noreferrer noopener"
-                  >
-                    <Instagram />
-                  </a>
-                </li>
-              )}
-              {siteMeta.linkedinUsername && (
-                <li>
-                  <a
-                    href={`https://www.linkedin.com/in/${siteMeta.linkedinUsername}`}
-                    target="_blank"
-                    rel="nofollow noreferrer noopener"
-                  >
-                    <Linkedin />
-                  </a>
-                </li>
-              )}
+            
             </ul>
             <ul>
               Let's Begin! </ul>

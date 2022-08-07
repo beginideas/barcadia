@@ -20,8 +20,8 @@ export const PerksModuleStyles = styled.section`
     object-position: center;
   }
   
-    .banner__content {
-    position: relative;
+    .banner__content2 {
+    position: absolute;
     z-index: 2;
     min-height: 33vh;
     width: 100%;

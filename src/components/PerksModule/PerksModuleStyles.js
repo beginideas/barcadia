@@ -40,9 +40,6 @@ export const PerksModuleStyles = styled.section`
     h1 {
       border-bottom: 2px solid rgba(255, 255, 255, 0.15);
       display: inline-block;
-      top: 25px;
-    margin-top: 0px;
-    border-top-width: 50px;
     
     }
     h2 {

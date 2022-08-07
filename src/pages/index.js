@@ -21,8 +21,10 @@ const Index = () => {
         <BasicTextModule
           title="Proudly serving our clients with digital transformation and enterprise modernization efforts."
           content="We are inventors, entrepeneurs and doers. We leverage industry standards, best practices, and secure technology to help our clients modernize and promote digital citizenship engagement."
+          link="https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA20D009K&contractorName=BEGINIDEAS+LLC&executeQuery=YES"
+          linkText="GSA Schedule #47QTCA20D009K"
           link="/about"
-          linkText="Learn More"
+          linkText=" Learn More"
         />
 
         <Features

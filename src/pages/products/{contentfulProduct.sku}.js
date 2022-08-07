@@ -20,7 +20,7 @@ export const data = graphql`
     contentfulProduct(id: { eq: $id }) {
       title
       introduction
-      price
+
       headerImage {
         gatsbyImageData(
           width: 2000

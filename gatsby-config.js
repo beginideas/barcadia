@@ -10,15 +10,15 @@ module.exports = {
   siteMetadata: {
     title: "BeginIdeas",
     description: "We Bring Ideas to Life",
-    author: "Morgan Baker",
+    author: "BeginIdeas",
     twitterUsername: "beginideas",
     facebookUsername: "barcadia",
     instagramUsername: "barcadia",
     linkedinUsername: "morgan-baker-development",
     image: "/macbook-color.jpg",
     siteUrl: "https://barcadia.netlify.com",
-    developerName: "Morgan Baker Development",
-    developerUrl: "https://www.morganbaker.dev",
+    developerName: "BeginIdeas",
+    developerUrl: "https://BeginIdeas.com",
   },
   /* Your site config here */
   plugins: [

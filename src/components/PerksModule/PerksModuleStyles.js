@@ -20,6 +20,15 @@ export const PerksModuleStyles = styled.section`
     object-position: center;
   }
   
+    .banner__content {
+    position: relative;
+    z-index: 2;
+    min-height: 33vh;
+    width: 100%;
+    max-width: 700px;
+    @media (min-width: 768px) {
+      width: 66vw;
+    }
     h1,
     h2 {
       text-shadow: var(--textShadow);

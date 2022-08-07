@@ -85,7 +85,7 @@ const Producttemplate = (contentfulProduct) => {
         title={title}
         price={price}
         subTitle={introduction}
-        enquire={true}
+        enquire={false}
       >
         <GatsbyImage
           className="banner__image"
@@ -126,8 +126,8 @@ const Producttemplate = (contentfulProduct) => {
         </ProductGallery>
       )}
       <Features
-        title="Featured Products from Barcadia."
-        introduction="Vivamus quam mauris, pulvinar vel mauris id, interdum semper neque. Proin malesuada libero eget tellus scelerisque, id egestas tortor egestas."
+        title="Featured Projects from BeginIdeas."
+        introduction="Leveraging Agile, industry certified subject matter experts (SMEs) and the best secure technology solutions for our clients."
       />
     </>
   )

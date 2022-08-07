@@ -26,6 +26,10 @@ const Index = () => {
           link="/about"
           linkText=" Learn More"
         />
+    
+       <PerksModule>
+          <Perk title="The Title" content="The content" />
+        </PerksModule>
 
         <Features
           title="Latest Projects"

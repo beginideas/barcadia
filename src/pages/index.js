@@ -24,9 +24,7 @@ const Index = () => {
           link="/contractvehicles"
           linkText="View Contracting Vehicles"
         />
-        <PerksModule>
-          <Perk title="The Title" content="The content" />
-        </PerksModule>
+
         <Features
           title="Latest Projects"
           introduction="Vivamus quam mauris, pulvinar vel mauris id, interdum semper neque. Proin malesuada libero eget tellus scelerisque, id egestas tortor egestas."

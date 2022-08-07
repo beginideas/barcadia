@@ -62,7 +62,7 @@ const Footer = () => {
         siteMeta.linkedinUsername ? (
           <FooterMenuStyles className="footer__menu social__menu">
             <h5>
-              Follow Barcadia<span>.</span>
+              Follow BeginIdeas<span>.</span>
             </h5>
             <ul>
               {siteMeta.twitterUsername && (
@@ -118,14 +118,8 @@ const Footer = () => {
       <CopyrightStyles>
         <div className="container container__tight">
           <p>
-            Designed & developed by{" "}
-            <a
-              href={siteMeta.developerUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              {siteMeta.developerName}
-            </a>
+            Designed & developed by BeginIdeas, LLC
+            
             <span>.</span>
           </p>
         </div>

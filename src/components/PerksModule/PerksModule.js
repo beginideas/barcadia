@@ -15,7 +15,11 @@ const PerksModule = () => {
         layout="constrained"
         placeholder="tracedSVG"
       />
-    <h1> Our Clients </h1>
+   <div className="banner__content">
+            
+              <h1>Our Clients</h1>
+   </div>
+
       <div className="perks__image--overlay"></div>
       <div className="container container__tight">
      

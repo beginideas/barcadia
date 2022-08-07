@@ -22,8 +22,8 @@ const PerksModule = () => {
           <StaticImage
             src="../../../static/logos/DHS.png"
             alt="Department of Homeland Security Logo"
-            layout="constrained"
-            placeholder="tracedSVG"
+            
+            
           />
         </Perk>
         

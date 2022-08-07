@@ -16,8 +16,7 @@ const Index = () => {
         <BannerModule
           title="Welcome to BeginIdeas"
           subTitle="We bring ideas to life through digital transformation and modernization to government agencies. Proudly based out of <a href="https://nationallanding.org/" target="_blank">National Landing</a> and St. Johns, FL."
-          link="/about"
-          linkText="Learn More"
+
     />
         <BasicTextModule
           title="Proudly serving our clients with digital transformation and enterprise modernization efforts."

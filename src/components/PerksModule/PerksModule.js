@@ -15,10 +15,11 @@ const PerksModule = () => {
         layout="constrained"
         placeholder="tracedSVG"
       />
+    <h3>Happy Clients</h3>
       <div className="perks__image--overlay"></div>
       <div className="container container__tight">
         <Perk
-          title="Happy Clients"
+          title=" "
         >
           <StaticImage
             src="../../../static/logos/DHS.png"

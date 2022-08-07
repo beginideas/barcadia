@@ -15,14 +15,12 @@ const Index = () => {
       <Layout>
         <BannerModule
           title="Welcome to BeginIdeas"
-          subTitle="We bring ideas to life through digital transformation and modernization to government agencies. Proudly based out of <a href="https://nationallanding.org/" target="_blank">National Landing</a> and St. Johns, FL."
+          subTitle="We bring ideas to life through digital transformation and modernization to government agencies. Proudly based out of <a href='https://nationallanding.org/' target='_blank'>National Landing</a> and St. Johns, FL."
 
     />
         <BasicTextModule
           title="Proudly serving our clients with digital transformation and enterprise modernization efforts."
-          content="Using modern CSS properties such as grid, this theme is optmised for
-            speed and mobile devices. Giving users an excellent experience on
-            any device. Future-proofing your product."
+          content="Using modern CSS properties such as grid, this theme is optmised for speed and mobile devices. Giving users an excellent experience on any device. Future-proofing your product."
           link="/products"
           linkText="View Contracting Vehicles"
         />

@@ -81,6 +81,18 @@ const PerksModule = () => {
             placeholder="tracedSVG"
           />
         </Perk>
+    
+      <Perk
+          title=" "
+         
+        >
+          <StaticImage
+            src="../../../static/logos/Sandia_National_Laboratories_logo.svg.png"
+            alt="Sandia National Laboratories Logo"
+            layout="constrained"
+            placeholder="tracedSVG"
+          />
+        </Perk>
       </div>
     </PerksModuleStyles>
   )

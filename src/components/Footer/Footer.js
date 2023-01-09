@@ -82,7 +82,10 @@ const Footer = () => {
 <ul>DUNS: 078325203 </ul>
 <ul>Cage Code: 6M4L4 </ul>
 <ul>NAICS: 54512, 54519, 611420 </ul>
-
+<ul> </ul>
+<ul>7643 Gate Parkway </ul>
+<ul>Suite 104-612 </ul>
+<ul>Jacksonville, FL 32256 </ul>
           </FooterMenuStyles>
         ) : (
           ""

@@ -88,72 +88,7 @@ const PerksModule = () => {
       </div>
 
 
-                <div className="container container__tight">
-     
-    
-        <Perk
-          title=" "
-        >
-          <StaticImage
-            src="../../../static/logos/DHS.png"
-            alt="Department of Homeland Security Logo"
-            
-            
-          />
-        </Perk>
-        
-        <Perk
-          title=" "
-         
-        >
-          <StaticImage
-            src="../../../static/logos/DOI.png"
-            alt="Department of Interior Logo"
-            layout="constrained"
-            placeholder="tracedSVG"
-          />
-        </Perk>
-    
-        <Perk
-          title=" "
-         
-        >
-          <StaticImage
-            src="../../../static/logos/DOC.png"
-            alt="Department of Commerce Logo"
-            layout="constrained"
-            placeholder="tracedSVG"
-          />
-        </Perk>
-    
-      <Perk
-          title=" "
-         
-        >
-          <StaticImage
-            src="../../../static/logos/TREASURY.png"
-            alt="Department of Treasury Logo"
-            layout="constrained"
-            placeholder="tracedSVG"
-          />
-        </Perk>
-    
-      <Perk
-          title=" "
-         
-        >
-          <StaticImage
-            src="../../../static/logos/USAID.png"
-            alt="USAID Logo"
-            layout="constrained"
-            placeholder="tracedSVG"
-          />
-        
-              
-        </Perk>
-    
-    
-      </div>
+   
               
     </PerksModuleStyles>
   )

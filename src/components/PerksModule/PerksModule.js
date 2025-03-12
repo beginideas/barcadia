@@ -80,18 +80,7 @@ const PerksModule = () => {
             layout="constrained"
             placeholder="tracedSVG"
           />
-               <StaticImage
-            src="../../../static/logos/USAID.png"
-            alt="USAID Logo"
-            layout="constrained"
-            placeholder="tracedSVG"
-          />
-               <StaticImage
-            src="../../../static/logos/USAID.png"
-            alt="USAID Logo"
-            layout="constrained"
-            placeholder="tracedSVG"
-          />
+        
               
         </Perk>
     

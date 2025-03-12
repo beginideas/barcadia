@@ -87,6 +87,73 @@ const PerksModule = () => {
     
       </div>
 
+               <div className="container container__tight">
+     
+    
+        <Perk
+          title=" "
+        >
+          <StaticImage
+            src="../../../static/logos/DOJ.png"
+            alt="Department of Homeland Security Logo"
+            
+            
+          />
+        </Perk>
+        
+        <Perk
+          title=" "
+         
+        >
+          <StaticImage
+            src="../../../static/logos/DOE.png"
+            alt="Department of Interior Logo"
+            layout="constrained"
+            placeholder="tracedSVG"
+          />
+        </Perk>
+    
+        <Perk
+          title=" "
+         
+        >
+          <StaticImage
+            src="../../../static/logos/OPM.png"
+            alt="Department of Commerce Logo"
+            layout="constrained"
+            placeholder="tracedSVG"
+          />
+        </Perk>
+    
+      <Perk
+          title=" "
+         
+        >
+          <StaticImage
+            src="../../../static/logos/NTIA.png"
+            alt="Department of Treasury Logo"
+            layout="constrained"
+            placeholder="tracedSVG"
+          />
+        </Perk>
+    
+      <Perk
+          title=" "
+         
+        >
+          <StaticImage
+            src="../../../static/logos/APHA.png"
+            alt="USAID Logo"
+            layout="constrained"
+            placeholder="tracedSVG"
+          />
+        
+              
+        </Perk>
+    
+    
+      </div>
+
 
    
               

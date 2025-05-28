@@ -14,8 +14,8 @@ const Index = () => {
       <Seo title="Home" />
       <Layout>
         <BannerModule
-          title="Welcome to BeginIdeas"
-          subTitle="We bring ideas to life through digital transformation and modernization to government agencies. Proudly based out of Jacksonville, FL."
+          title="Empowering Healthcare and Public Sector Leaders with Practical AI Solutions"
+          subTitle="From predictive analytics to workflow automation — we help you deploy AI where it counts. Proudly based out of Jacksonville, FL."
       
     />
         <BasicTextModule
